@@ -10,7 +10,7 @@ This project provides **AI-upscaled HD textures** for the PlayStation 2 game **W
 -  AI-upscaled character textures 
 -  Enhanced environment textures (arena, backstage, UI)
 -  Cleaned and sharpened logos and in-game text
--  Faithful to original design — no major stylistic changes
+-  Faithful to original design - no major stylistic changes
 -  Compatible with PCSX2 texture replacement system
 
 ## Requirements
