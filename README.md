@@ -2,6 +2,9 @@
 
 This project provides **AI-upscaled HD textures** for the PlayStation 2 game **WWE SmackDown! Shut Your Mouth**, giving it a modern visual upgrade while preserving the game's original art style.
 
+**Note:** This project is still **in its infancy** at this current moment in time. Many textures are yet to be completed, and the pack will evolve with future updates.
+
+
 ## Features
 
 -  AI-upscaled character textures 
